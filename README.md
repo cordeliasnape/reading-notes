@@ -19,4 +19,6 @@ To me, Growth Mindset is about not feeling deflated at each learning stage, but 
 - Try to rethink 'criticism' to being **'helpful advice'**.
 - Mistakes are **necessary** to learn.
 
+You can also view my [page about Markdown basics](https://cordeliasnape.github.io/reading-notes/class-01) that I wrote up. 
+
 ### Thank you for visiting my page!
