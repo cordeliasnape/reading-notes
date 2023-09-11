@@ -1,6 +1,6 @@
 # Cordelia Snape
 
-Hello, my name is Cordelia and I am based in the North West. 
+Hello, my name is Cordelia and I am based in the North West. I am a former English teacher, starting off my (former) career in Beijing, China but also in Gwangju and Seoul in South Korea.
 
 ### GitHub Portfolio:
 
