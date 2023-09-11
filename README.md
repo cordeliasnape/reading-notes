@@ -18,4 +18,4 @@ To me, Growth Mindset is about not feeling deflated at each learning stage, but 
 - Try to rethink 'criticism' to being 'helpful advice'.
 - Mistakes are necessary to learn.
 
-Thank you for visiting my page!
+### Thank you for visiting my page!
