@@ -4,7 +4,8 @@ Hello, my name is Cordelia and I am based in the North West.
 
 ### GitHub Portfolio:
 
-https://github.com/cordeliasnape
+Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
+
 
 ## Coding Bootcamp: Code 102, Class One: September 11th
 
