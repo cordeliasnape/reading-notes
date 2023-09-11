@@ -16,7 +16,7 @@ To me, Growth Mindset is about not feeling deflated at each learning stage, but 
 ## Some 'Growth Mindset' reminders for myself: 
 - Don't be disheartened by others' success.
   - Alternatively, don't boast about my own success to others when they are struggling.
-- Try to rethink 'criticism' to being 'helpful advice'.
-- Mistakes are necessary to learn.
+- Try to rethink 'criticism' to being **'helpful advice'**.
+- Mistakes are **necessary** to learn.
 
 ### Thank you for visiting my page!
