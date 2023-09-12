@@ -22,7 +22,11 @@ When looking for a text editor, here are four things I would be looking for:
 ### The following commands cause the following things to happen:
 
 `cd projects` - this would put the user into the 'projects' folder
+
 `mkdir new-project` - this would make a new directory called 'new-project'
+
 `touch new-project/newfile.md` - this would make a new file titled 'newfile.md' in the 'new-project' folder
+
 `cd ..` - this would take you up a level in the directory
+
 `ls projects/new-project` - this would list the files in the 'new-project' folder
