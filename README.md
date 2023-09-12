@@ -7,7 +7,7 @@ Hello, my name is Cordelia and I am based in the North West. I am a former Engli
 Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 
 
-## Coding Bootcamp: Code 102, Class One: September 11th
+## Coding Bootcamp: Code 102, Class One and Two: September 11th
 
 Today, we discussed 'Growth Mindset'. 
 
@@ -20,5 +20,6 @@ To me, Growth Mindset is about not feeling deflated at each learning stage, but 
 - Mistakes are **necessary** to learn.
 
 You can also view my [page about Markdown basics](https://cordeliasnape.github.io/reading-notes/class-01) that I wrote up. 
+Here is my write-up on Terminal.
 
 ### Thank you for visiting my page!
