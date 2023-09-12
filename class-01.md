@@ -1,3 +1,15 @@
+## Short Aside on Growth Mindset
+
+Today, we discussed 'Growth Mindset'. 
+
+To me, Growth Mindset is about not feeling deflated at each learning stage, but trying to approach the topic with a learning mindset. 
+
+## Some 'Growth Mindset' reminders for myself: 
+- Don't be disheartened by others' success.
+  - Alternatively, don't boast about my own success to others when they are struggling.
+- Try to rethink 'criticism' to being *'helpful advice'*.
+- Mistakes are **necessary** to learn. 
+
 # Task One - Learning Markdown: The Basics
 
 Markdown is an LML (Lightweight Markup Language), which means it has simple, unobtrusive syntax. It was created in 2004 by John Gruber. When using Markdown, you have to add 'Markdown syntax', or simply put, symbols, that can change the text. It is designed to be easily read and unobtrusive, and therefore, you don't have to render it to read it.
@@ -14,30 +26,30 @@ Headings are created using the '#' symbol. The number of #'s you use corresponds
 
 For example: 
 
-> "# This is my first heading." creates:
+> `# This is my first heading.` creates:
 > # This is my first heading.
 > 
-> "## This is my second heading." creates:
+> `## This is my second heading.` creates:
 > ## This is my second heading.
 > 
-> "### This is my third heading." creates:
+> `### This is my third heading.` creates:
 > ### This is my third heading.
 
 The smallest heading you can create is:
 
-> "###### This is the smallest heading." creates:
+> `###### This is the smallest heading.` creates:
 > ###### This is the smallest heading.
 
 ### Text Formatting
 
 To embolden your text, you can simply use '**' on either side of the text you wish to embolden. For example: 
 
-> "** + Hello World. + **" creates:
+> `**` + `Hello World`. + `**` creates:
 > **Hello World.**
 
 To italicize your text, you can use '*'. For example:
 
-> "* + Hello World. + *" creates:
+> `*` + `Hello World.` + `*` creates:
 > *Hello World.*
 
 ### Links
@@ -64,3 +76,4 @@ These three all create a bullet-pointed, unordered list. For example:
 > + Two
 > + Three
 
+Here is my write-up on [Terminal](https://cordeliasnape.github.io/reading-notes/class-02).

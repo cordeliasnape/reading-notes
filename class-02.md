@@ -30,3 +30,5 @@ When looking for a text editor, here are four things I would be looking for:
 `cd ..` - this would take you up a level in the directory
 
 `ls projects/new-project` - this would list the files in the 'new-project' folder
+
+Here are my notes about [Git](https://cordeliasnape.github.io/reading-notes/class-03).

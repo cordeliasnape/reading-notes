@@ -6,25 +6,40 @@ Hello, my name is Cordelia and I am based in the North West. I am a former Engli
 
 Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 
+## Table of Contents
 
-## Coding Bootcamp: Code 102, Class 1 and 2: September 11th
+### Code 102 Reading Notes
 
-Today, we discussed 'Growth Mindset'. 
+1. [Class One](https://cordeliasnape.github.io/reading-notes/class-01)
+2. [Class Two](https://cordeliasnape.github.io/reading-notes/class-02)
+3. [Class Three](https://cordeliasnape.github.io/reading-notes/class-03)
+4. [Class Four](https://cordeliasnape.github.io/reading-notes/class-04)
 
-To me, Growth Mindset is about not feeling deflated at each learning stage, but trying to approach the topic with a learning mindset. 
+#### Please Note that any of the sites below this point are a WIP ⏳
 
-## Some 'Growth Mindset' reminders for myself: 
-- Don't be disheartened by others' success.
-  - Alternatively, don't boast about my own success to others when they are struggling.
-- Try to rethink 'criticism' to being *'helpful advice'*.
-- Mistakes are **necessary** to learn.
+5. [Class Five](https://cordeliasnape.github.io/reading-notes/class-05)
+6. [Class Six](https://cordeliasnape.github.io/reading-notes/class-06)
+7. [Class Seven](https://cordeliasnape.github.io/reading-notes/class-07)
+8. [Class Eight](https://cordeliasnape.github.io/reading-notes/class-08)
 
-You can also view my [page about Markdown basics](https://cordeliasnape.github.io/reading-notes/class-01) that I wrote up. 
+### Code 201 Reading Notes
 
-Here is my write-up on [Terminal](https://cordeliasnape.github.io/reading-notes/class-02).
+#### Please Note that any of the sites below this point are a WIP ⏳
 
-## Coding Bootcamp: Code 102, Class 3 and 4: September 12th
-
-
+1. [Class One](https://cordeliasnape.github.io/reading-notes/class-09)
+2. [Class Two](https://cordeliasnape.github.io/reading-notes/class-10)
+3. [Class Three](https://cordeliasnape.github.io/reading-notes/class-11)
+4. [Class Four](https://cordeliasnape.github.io/reading-notes/class-12)
+5. [Class Five](https://cordeliasnape.github.io/reading-notes/class-13)
+6. [Class Six](https://cordeliasnape.github.io/reading-notes/class-14)
+7. [Class Seven](https://cordeliasnape.github.io/reading-notes/class-15)
+8. [Class Eight](https://cordeliasnape.github.io/reading-notes/class-16)
+9. [Class Nine](https://cordeliasnape.github.io/reading-notes/class-17)
+10. [Class Ten](https://cordeliasnape.github.io/reading-notes/class-18)
+11. [Class Eleven](https://cordeliasnape.github.io/reading-notes/class-19)
+12. [Class Twelve](https://cordeliasnape.github.io/reading-notes/class-20)
+13. [Class Thirteen](https://cordeliasnape.github.io/reading-notes/class-21)
+14. [Class Fourteen](https://cordeliasnape.github.io/reading-notes/class-22)
+15. [Class Fifteen](https://cordeliasnape.github.io/reading-notes/class-23)
 
 ### Thank you for visiting my page!
