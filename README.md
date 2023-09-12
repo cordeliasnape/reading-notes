@@ -2,7 +2,7 @@
 
 Hello, my name is Cordelia and I am based in the North West. I am a former English teacher, starting off my (former) career in Beijing, China but also in Gwangju and Seoul in South Korea.
 
-### GitHub Portfolio:
+## GitHub Portfolio:
 
 Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 
