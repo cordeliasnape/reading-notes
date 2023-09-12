@@ -20,6 +20,7 @@ To me, Growth Mindset is about not feeling deflated at each learning stage, but 
 - Mistakes are **necessary** to learn.
 
 You can also view my [page about Markdown basics](https://cordeliasnape.github.io/reading-notes/class-01) that I wrote up. 
+
 Here is my write-up on [Terminal](https://cordeliasnape.github.io/reading-notes/class-02).
 
 ## Coding Bootcamp: Code 102, Class 3 and 4: September 12th
