@@ -14,11 +14,11 @@ Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 2. [Class Two](https://cordeliasnape.github.io/reading-notes/class-02)
 3. [Class Three](https://cordeliasnape.github.io/reading-notes/class-03)
 4. [Class Four](https://cordeliasnape.github.io/reading-notes/class-04)
+5. [Class Five](https://cordeliasnape.github.io/reading-notes/class-05)
+6. [Class Six](https://cordeliasnape.github.io/reading-notes/class-06)
 
 #### Please Note that any of the sites below this point are a WIP ⏳
 
-5. [Class Five](https://cordeliasnape.github.io/reading-notes/class-05)
-6. [Class Six](https://cordeliasnape.github.io/reading-notes/class-06)
 7. [Class Seven](https://cordeliasnape.github.io/reading-notes/class-07)
 8. [Class Eight](https://cordeliasnape.github.io/reading-notes/class-08)
 

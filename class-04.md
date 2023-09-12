@@ -13,8 +13,11 @@ The three main parts are as follows: the start tag `<p>`, the content, and the e
 This is called applying an attribute, for example:
 
 The element: `<a href="dog.html">Cute Dog</a>`
+
 The attribute: `<href="dog.html"`
+
 The attribute name is: `href`
+
 The attribute value is: `"dog.html"`
 
 ### Finally, what is a semantic element?
@@ -24,7 +27,13 @@ A semantic element is best described as something that clearly describes its own
 Some examples include:
 
 >`<header>`
+>
 >`<nav>`
+>
 >`<section>`
+>
 >`<footer>`
+>
 >etc....
+
+You can read my answers to some comprehension questions about [CSS](https://cordeliasnape.github.io/reading-notes/class-05) here.
