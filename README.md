@@ -16,9 +16,6 @@ Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 4. [Class Four](https://cordeliasnape.github.io/reading-notes/class-04)
 5. [Class Five](https://cordeliasnape.github.io/reading-notes/class-05)
 6. [Class Six](https://cordeliasnape.github.io/reading-notes/class-06)
-
-#### Please Note that any of the sites below this point are a WIP ⏳
-
 7. [Class Seven](https://cordeliasnape.github.io/reading-notes/class-07)
 8. [Class Eight](https://cordeliasnape.github.io/reading-notes/class-08)
 
