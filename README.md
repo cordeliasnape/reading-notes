@@ -21,9 +21,10 @@ Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 
 ### Code 201 Reading Notes
 
+1. [Class One](https://cordeliasnape.github.io/reading-notes/class-09)
+
 #### Please Note that any of the sites below this point are a WIP ⏳
 
-1. [Class One](https://cordeliasnape.github.io/reading-notes/class-09)
 2. [Class Two](https://cordeliasnape.github.io/reading-notes/class-10)
 3. [Class Three](https://cordeliasnape.github.io/reading-notes/class-11)
 4. [Class Four](https://cordeliasnape.github.io/reading-notes/class-12)
