@@ -78,9 +78,7 @@ It can set the author of the page:
 
 ### What is the first step to designing a Website?
 
-When asked to design a website, the first thing you should do is create a wireframe. An example of my recent website was this:
-
-And the final result is shown here. As you can see, some ideas were seen through, others were tweaked, and others were scrapped all together:
+When asked to design a website, the first thing you should do is create a wireframe.
 
 ### What is the most important question to answer when designing a Website?
 
