@@ -101,7 +101,7 @@ Two things that require JavaScript are creating dynamic websites and creating we
 <ul>Provides framework for creating an app.</ul>
 <ul>Provides developers with pre-written code to use for programming features.</ul>
 
-###How can you add JavaScript to an HTML document?
+### How can you add JavaScript to an HTML document?
 
 You can add JavaScript to an HTML document by using this link tag in the head:
 
