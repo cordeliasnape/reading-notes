@@ -1,6 +1,6 @@
 # Cordelia Snape
 
-Hello, my name is Cordelia and I am based in the North West. I am a former English teacher, starting off my (former) career in Beijing, China but also in Gwangju and Seoul in South Korea.
+Hello, my name is Cordelia and I am based in the North West.
 
 ## GitHub Portfolio:
 
@@ -23,9 +23,6 @@ Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 
 1. [Class One](https://cordeliasnape.github.io/reading-notes/class-09)
 2. [Class Two](https://cordeliasnape.github.io/reading-notes/class-10)
-
-#### Please Note that any of the sites below this point are a WIP ⏳
-
 3. [Class Three](https://cordeliasnape.github.io/reading-notes/class-11)
 4. [Class Four](https://cordeliasnape.github.io/reading-notes/class-12)
 5. [Class Five](https://cordeliasnape.github.io/reading-notes/class-13)
@@ -33,6 +30,9 @@ Here is [my GitHub profile](https://github.com/cordeliasnape) 😎
 7. [Class Seven](https://cordeliasnape.github.io/reading-notes/class-15)
 8. [Class Eight](https://cordeliasnape.github.io/reading-notes/class-16)
 9. [Class Nine](https://cordeliasnape.github.io/reading-notes/class-17)
+
+#### Please Note that any of the sites below this point are a WIP ⏳
+
 10. [Class Ten](https://cordeliasnape.github.io/reading-notes/class-18)
 11. [Class Eleven](https://cordeliasnape.github.io/reading-notes/class-19)
 12. [Class Twelve](https://cordeliasnape.github.io/reading-notes/class-20)
