@@ -27,7 +27,7 @@ Events are like real events, they happen when something triggers it. In web deve
 
 When using the addEventListener() method, the arguments are as follows:
 
-> `addEventListener(type, listener)`
+> addEventListener(type, listener)
 
 A “type” defines the event type of event.
 

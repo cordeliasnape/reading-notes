@@ -24,7 +24,7 @@ An `<abbr>` tag is short for ‘abbreviation’, and can be used to style a abbr
 
 We can use CSS to manipulate and style our HTML in an array of possibilities. Before we can make any changes, we must link the style sheet first using:
 
-> `<link rel="stylesheet" href="styles.css" />`
+`<link rel="stylesheet" href="styles.css"`
 
 ### Why should we avoid using inline styles?
 
@@ -75,10 +75,10 @@ _else_ run this _output_
 
 ### List 3 different types of comparison operators.
 
-- < - less than
-- > - more than
-- <= - less than or equal to
-- > = - more than or equal to
+- `<` - less than
+- `>` - more than
+- `<=` - less than or equal to
+- `>`= - more than or equal to
 
 ### What is the difference between the logical operator && and ||?
 

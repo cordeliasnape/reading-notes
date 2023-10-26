@@ -9,15 +9,15 @@ When looking for a text editor, here are four things I would be looking for:
 
 ### The following commands create these outcomes:
 
-> `pwd` = Print Working Directory = Tells you what your working or present directory is
-> 
-> `ls` = List = Lists files
-> 
-> `cd` = Change Directory = Allows you to move between directories
-> 
-> `mkdir` = Make Directory = Allows you to make a directory with the name following the command
-> 
-> `touch` = Make New File = Allows you to create and modify files
+> pwd = Print Working Directory = Tells you what your working or present directory is
+>
+> ls = List = Lists files
+>
+> cd = Change Directory = Allows you to move between directories
+>
+> mkdir = Make Directory = Allows you to make a directory with the name following the command
+>
+> touch = Make New File = Allows you to create and modify files
 
 ### The following commands cause the following things to happen:
 

@@ -1,14 +1,15 @@
 ## Short Aside on Growth Mindset
 
-Today, we discussed 'Growth Mindset'. 
+Today, we discussed 'Growth Mindset'.
 
-To me, Growth Mindset is about not feeling deflated at each learning stage, but trying to approach the topic with a learning mindset. 
+To me, Growth Mindset is about not feeling deflated at each learning stage, but trying to approach the topic with a learning mindset.
 
-## Some 'Growth Mindset' reminders for myself: 
+## Some 'Growth Mindset' reminders for myself:
+
 - Don't be disheartened by others' success.
   - Alternatively, don't boast about my own success to others when they are struggling.
-- Try to rethink 'criticism' to being *'helpful advice'*.
-- Mistakes are **necessary** to learn. 
+- Try to rethink 'criticism' to being _'helpful advice'_.
+- Mistakes are **necessary** to learn.
 
 # Task One - Learning Markdown: The Basics
 
@@ -18,39 +19,43 @@ We use Markdown because it can be used for everything. It can be used to format 
 
 ## So, let's cover some basic syntax you can use to make Markdown more interesting.
 
-Generally, we must use "best practice". 'Best practice' keeps your coding legible for those who wish to read it. 
+Generally, we must use "best practice". 'Best practice' keeps your coding legible for those who wish to read it.
 
 ### Headings
 
 Headings are created using the '#' symbol. The number of #'s you use corresponds to the heading you're creating:
 
-For example: 
+For example:
 
 > `# This is my first heading.` creates:
+>
 > # This is my first heading.
-> 
+>
 > `## This is my second heading.` creates:
+>
 > ## This is my second heading.
-> 
+>
 > `### This is my third heading.` creates:
+>
 > ### This is my third heading.
 
 The smallest heading you can create is:
 
 > `###### This is the smallest heading.` creates:
+>
 > ###### This is the smallest heading.
 
 ### Text Formatting
 
-To embolden your text, you can simply use '**' on either side of the text you wish to embolden. For example: 
+To embolden your text, you can simply use '\*\*' on either side of the text you wish to embolden. For example:
 
 > `**` + `Hello World`. + `**` creates:
 > **Hello World.**
 
-To italicize your text, you can use '*'. For example:
+To italicize your text, you can use '\*'. For example:
 
 > `*` + `Hello World.` + `*` creates:
-> *Hello World.*
+> _Hello World._
 
 ### Links
 
@@ -62,18 +67,18 @@ For example:
 
 ### Unordered Lists
 
-You can use a '*', '+' or a '-' at the beginning of a line to create an unordered list. Here are some examples:
-  
+You can use a '\*', '+' or a '-' at the beginning of a line to create an unordered list. Here are some examples:
+
 <img width="77" alt="Screenshot 2023-09-11 at 15 15 16" src="https://github.com/cordeliasnape/reading-notes/assets/144432933/7840f1b8-b67e-4401-8002-19f7c3e95216">
 
 <img width="76" alt="Screenshot 2023-09-11 at 15 15 51" src="https://github.com/cordeliasnape/reading-notes/assets/144432933/63bb8f8f-ebde-4aec-895c-2dd1d4e62dcd">
 
 <img width="92" alt="Screenshot 2023-09-11 at 15 16 12" src="https://github.com/cordeliasnape/reading-notes/assets/144432933/19e85186-e17b-4081-b600-a4f8dc3a18be">
 
-These three all create a bullet-pointed, unordered list. For example: 
+These three all create a bullet-pointed, unordered list. For example:
 
-> + One
-> + Two
-> + Three
+> - One
+> - Two
+> - Three
 
 Here is my write-up on [Terminal](https://cordeliasnape.github.io/reading-notes/class-02).

@@ -105,7 +105,7 @@ Two things that require JavaScript are creating dynamic websites and creating we
 
 You can add JavaScript to an HTML document by using this link tag in the head:
 
-> `<script src=“./app.js> </script>`
+`<script src=“./app.js> </script>`
 
 ## Things I want to know more about:
 

@@ -6,7 +6,8 @@ You could use an unordered list when you wish to create a list that doesn’t ha
 
 You can target the bullet point in CSS using `list-style-type`. For example:
 
-> `list-style-type: circle;` > `list-style-type: square;`
+> list-style-type: circle;
+> list-style-type: square;
 
 ## When should you use an ordered list vs an unordered list in your HTML document?
 
@@ -16,7 +17,8 @@ You should use an ordered list when you wish to proceed it with a number, for ex
 
 You can target the numbers in an ordered list by using the same `list-style-type` as before. For example:
 
-> `list-style-type: upper-roman;` >`list-style-type: lower-alpha;`
+> list-style-type: upper-roman;
+> list-style-type: lower-alpha;
 
 ## Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 
@@ -39,28 +41,30 @@ Once, there was a blue box. The box had ‘The Box Model’ scrawled over it in 
 
 ### Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
-> `const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
+> const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 
 It is a valid array but it doesn’t have equal values. If I wanted to access Pete’s age, I would say:
 
-> `const peteAge = people[0][1];`
+> const peteAge = people[0][1];
 
 This is because I am accessing the first array (which has index 0), and accessing the second value in the array (which has index 1).
 
 ## List five shorthand operators for assignment in javascript and describe what they do.
 
-1.  = : assignment
-2.  += : addition assignment (adds the first value to answer)
-3.  -= : subtraction assignment
-4.  \*= : multiplication assignment
-5.  /= : division assignement
+1. `=` : assignment
+2. `+=` : addition assignment (adds the first value to answer)
+3. `-=` : subtraction assignment
+4. `*=` : multiplication assignment
+5. `/=` : division assignement
 
 ### Read the code below and evaluate the last expression and explain what the result would be and why.
 
-> `let a = 10;` > `let b = 'dog’;` > `let c = false;`
->
+> let a = 10;
+> let b = 'dog’;
+> let c = false;
+
 > // evaluate this
-> `(a + c) + b;`
+> (a + c) + b;
 
 10 + false = 10
 10 + ‘dog’ = 10dog

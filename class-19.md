@@ -36,11 +36,16 @@ Grid was made to specifically target the ways in which Flexbox’s use wavers. T
 
 The attribute `srcset` allows the user to privde a list of sources along with a descriptor that indicates the image width, pixel density or media condition. The browser then selects the most appropriate sized image.
 
-> ` <img src="image-small.jpg”` > `srcset="image-medium.jpg 1000w, image-large.jpg 2000w` > `alt="Responsive Image">`
+> img src="image-small.jpg”
+> srcset="image-medium.jpg 1000w, image-large.jpg 2000w
+> alt="Responsive Image"
 
 Meanwhile, the attribute `sizes` tells the browser how the image will be displayed in the layout based on the viewport width.
 
-> `<img src="image-small.jpg”` > `srcset="image-medium.jpg 1000w, image-large.jpg 2000w”` > `sizes="(max-width: 600px) 100vw, 50vw”` > `alt="Responsive Image">`
+> img src="image-small.jpg”
+> srcset="image-medium.jpg 1000w, image-large.jpg 2000w”
+> sizes="(max-width: 600px) 100vw, 50vw”
+> alt="Responsive Image"
 
 In summary, `srcset` helps the browser select the most suitable image source from a list based on the user's device and viewport size, while `sizes` instructs the browser on how the selected image should be displayed within the webpage's layout at different viewport sizes.
 

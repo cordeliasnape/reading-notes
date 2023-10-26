@@ -27,7 +27,10 @@ PNG files are best used for graphics, screenshots and charts. PNG is widely supp
 
 Background is the colour behind the text, while the foreground usually refers to the text. For example, when referring to a regular reading book, this is the CSS that would be used:
 
-> `book {` >`	background-color: white;` >`	color: black;` >` }`
+> book {
+> background-color: white;
+> color: black;
+> }
 
 ### Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
 

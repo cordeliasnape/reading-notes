@@ -26,14 +26,14 @@ A semantic element is best described as something that clearly describes its own
 
 Some examples include:
 
->`<header>`
+> <header>
 >
->`<nav>`
+> <nav>
 >
->`<section>`
+> <section>
 >
->`<footer>`
+> <footer>
 >
->etc....
+> etc....
 
 You can read my answers to some comprehension questions about [CSS](https://cordeliasnape.github.io/reading-notes/class-05) here.

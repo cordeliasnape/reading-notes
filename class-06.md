@@ -15,15 +15,13 @@ Variables are 'containers' that store data This data can be changed later on. Th
 
 ### What does it mean to declare a variable?
 
-To `declare` a variable is to assign the variable a particular data. 
+To `declare` a variable is to assign the variable a particular data.
 
 For example, preceding data with `const` signifies that that particular data (that can be the value or the type) is `constant` and, therefore, cannot be changed.
 
 You can use `let` when you cannot use `const`, and if the data can be changed.
 
-*Only* use `var` if you **must** support old browsers.
-
-
+_Only_ use `var` if you **must** support old browsers.
 
 ### What is an “assignment” operator, and what does it do?
 
@@ -34,7 +32,3 @@ These are usually math functions such as addition, subtraction and results.
 ### What is information received from the user called?
 
 This is called 'input'. JavaScript displays 'output' to the user.
-
-### How a Computer Works: My Most Significant Findings
-
-*incoming...*

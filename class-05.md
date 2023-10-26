@@ -7,33 +7,33 @@ CSS (Cascading Style Sheets) is a language that is used to change how a document
 ### What are the ways to insert CSS into your project?
 
 1. External CSS
-    - This must include a link to the external style sheet using `<link rel="stylesheet" href="mystyle.css">`
+   - This must include a link to the external style sheet using `<link rel="stylesheet" href="mystyle.css">`
 2. Internal CSS
-    - This can be used within the HTML itself.
+   - This can be used within the HTML itself.
 3. Inline CSS
 
 Here are some CSS examples:
 
 > **HTML**
 >
-> `<body>`
->   `<p>`
->       `Hello!`
->   `</p>`
-> `</body>`
+> <body>
+> <p>
+> Hello!
+> </p> 
+> </body>
 
 > **CSS**
 >
-> `body {`
->    `color: red;`
->`}`
+> body {
+> color: red;
+> }
 
 This will change all of the `body` text to red!
 
->`body {`
->   `background-color: black;`
->   `color: red;`
->`}`
+> body {
+> background-color: black;
+> color: red;
+> }
 
 This will keep the text red, but will change the background to black.
 

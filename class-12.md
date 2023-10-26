@@ -18,7 +18,7 @@ Normal flow is the way in which a page will be laid out without CSS being applie
 
 The two most common types of display setting are block and inline. Block elements stack vertically, and inline stacks horizontally. They can be useful for different elements and can be modified using CSS.
 
-### \_\_\_\_ positioning is the default for every html element.
+### ****\_**** positioning is the default for every html element.
 
 Static position is the default.
 
